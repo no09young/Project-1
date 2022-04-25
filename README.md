@@ -29,3 +29,5 @@ Future Improvements:
     - .json should contain the following keys: "name", "title", "type", "team"
     - "team" value should be a list ("team": [])
     - the name of the .json should be the same as the "name" value (Nick.json and "name": Nick)
+## License
+This project uses the following license: MIT
