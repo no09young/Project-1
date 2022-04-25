@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Lance",
+    "title" : "Champion",
+    "type" : "Dragon",
+    "team" : ["Gyarados", "Dragonite", "Dragonite", "Aerodactyl", "Charizard", "Dragonite"]
+}

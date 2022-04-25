@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Clair",
+    "title" : "Gym Leader",
+    "type" : "Dragon",
+    "team" : ["Dragonair", "Dragonair", "Gyarados", "Kingdra"]
+}

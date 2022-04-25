@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Falkner",
+    "title" : "Gym Leader",
+    "type" : "Flying",
+    "team" : ["Pidgey", "Pidgeotto"]
+}

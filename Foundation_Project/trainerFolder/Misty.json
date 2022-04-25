@@ -1,0 +1,7 @@
+{
+    "id" : 2,
+    "name" : "Misty",
+    "title" : "Gym Leader",
+    "type" : "Water",
+    "team" : ["Quagsire", "Starmie", "Golduck", "Lapras"]
+}

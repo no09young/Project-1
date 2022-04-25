@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Jasmine",
+    "title" : "Gym Leader",
+    "type" : "Steel",
+    "team" : ["Magnemite", "Magnemite", "Steelix"]
+}

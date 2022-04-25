@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Lt. Surge",
+    "title" : "Gym Leader",
+    "type" : "Electric",
+    "team" : ["Raichu", "Electrode", "Electrode", "Magneton", "Electabuzz"]
+}

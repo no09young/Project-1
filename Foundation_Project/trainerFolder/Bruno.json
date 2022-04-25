@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Bruno",
+    "title" : "Elite Four",
+    "type" : "Fighting",
+    "team" : ["Hitmontop", "Hitmonlee", "Hitmonchan", "Onix", "Machamp"]
+}

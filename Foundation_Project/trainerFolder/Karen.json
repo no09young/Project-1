@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Karen",
+    "title" : "Elite Four",
+    "type" : "Dark",
+    "team" : ["Umbreon", "Vileplume", "Gengar", "Murkrow", "Houndoom"]
+}

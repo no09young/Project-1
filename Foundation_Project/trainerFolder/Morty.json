@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Morty",
+    "title" : "Gym Leader",
+    "type" : "Ghost",
+    "team" : ["Gastly", "Haunter", "Haunter", "Gengar"]
+}

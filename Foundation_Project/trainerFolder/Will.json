@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Will",
+    "title" : "Elite Four",
+    "type" : "Psychic",
+    "team" : ["Xatu", "Jynx", "Exeggutor", "Slowbro", "Xatu"]
+}

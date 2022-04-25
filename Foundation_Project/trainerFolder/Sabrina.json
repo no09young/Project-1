@@ -1,0 +1,7 @@
+{
+    "id" : 3,
+    "name" : "Sabrina",
+    "title" : "Gym Leader",
+    "type" : "Psychic",
+    "team" : ["Espeon", "Mr. Mime", "Alakazam"]
+}
